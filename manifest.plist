@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://marketingbot.s3-website-us-west-2.amazonaws.com/marketingbot/MarketingBotiOS.ipa</string>
+					<string>http://marketingbot.s3-website-us-west-2.amazonaws.com/MarketingBotiOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.juniper.marketing</string>
+				<string>net.juniper.marketingbot</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
